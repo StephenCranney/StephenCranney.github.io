@@ -9,12 +9,12 @@
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
-  icon: "fa-facebook"
+  icon: "fab fa-facebook-f"
   
 goodreads:
   name: "Goodreads"
   baseURL: "https://www.goodreads.com/"
-  icon: "fa-brands:goodreads"
+  icon: "fab fa-goodreads"
 
 github:
   name: "GitHub"
