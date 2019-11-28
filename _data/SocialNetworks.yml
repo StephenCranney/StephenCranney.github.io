@@ -10,6 +10,11 @@ facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
+  
+goodreads:
+  name: "Goodreads"
+  baseURL: "https://www.goodreads.com/"
+  icon: "fa-goodreads"
 
 github:
   name: "GitHub"
