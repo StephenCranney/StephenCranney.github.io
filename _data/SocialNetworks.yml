@@ -19,12 +19,12 @@ goodreads:
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
-  icon: "fa-github"
+  icon: "fab fa-github"
 
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
-  icon: "fa-twitter"
+  icon: "fab fa-twitter"
 
 reddit:
   name: "Reddit"
@@ -39,7 +39,7 @@ email:
 linkedin:
   name: "LinkedIn"
   baseURL: "https://linkedin.com/in/"
-  icon: "fa-linkedin"
+  icon: "fab fa-linkedin"
 
 xing:
   name: "Xing"
@@ -64,7 +64,7 @@ instagram:
 youtube:
   name: "YouTube"
   baseURL: "https://www.youtube.com/"
-  icon: "fa-youtube"
+  icon: "fab fa-youtube"
 
 spotify:
   name: "Spotify"
