@@ -14,7 +14,7 @@ facebook:
 goodreads:
   name: "Goodreads"
   baseURL: "https://www.goodreads.com/"
-  icon: "fa-goodreads"
+  icon: "fab fa-goodreads"
 
 github:
   name: "GitHub"
