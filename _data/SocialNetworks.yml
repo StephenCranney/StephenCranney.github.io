@@ -11,7 +11,7 @@ facebook:
   baseURL: "https://www.facebook.com/"
   icon: "fab fa-facebook-f"
   
-  wikipedia:
+wikipedia:
   name: "Wikipedia"
   baseURL: "https://en.wikipedia.org/"
   icon: "fab fa-wikipedia-w"
