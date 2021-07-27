@@ -1,4 +1,5 @@
-![Cranney Data Science](https://user-images.githubusercontent.com/28068645/127241001-1fd12d3e-262f-4eac-b153-e323b3a7a6ff.png)
+<img width="230" alt="Screen Shot 2021-07-27 at 7 40 23 PM" src="https://user-images.githubusercontent.com/28068645/127241196-b12e0d05-6d9e-477c-8884-abe3db5eb5fc.png">
+
 
 I have a data science LLC based out of the DC area, with a current clientele focus of NGOs in the religion and public life space. Methodologically, I am a Swiss Army knife. I have either published or done client work using geospatial statistics, network analysis, machine learning, actuarial and demographic methods, qualitative methods such as interviews and content analysis, data visualization, unstructured data retrieval and cleaning, and advanced predictive analytics. 
 
