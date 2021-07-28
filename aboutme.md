@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/28068645/127241382-4f8330f8-ff19-4600-9472-57582e453bba.png">
+  <img width=".5" height=".51" src="https://user-images.githubusercontent.com/28068645/127241382-4f8330f8-ff19-4600-9472-57582e453bba.png">
 </p>
 
 ![Cranney Data Science](https://user-images.githubusercontent.com/28068645/127241382-4f8330f8-ff19-4600-9472-57582e453bba.png)
