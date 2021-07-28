@@ -1,8 +1,6 @@
 <p align="center">
-  <img width="100" height="100" src="https://user-images.githubusercontent.com/28068645/127241382-4f8330f8-ff19-4600-9472-57582e453bba.png">
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/28068645/127241382-4f8330f8-ff19-4600-9472-57582e453bba.png">
 </p>
-
-![Cranney Data Science](https://user-images.githubusercontent.com/28068645/127241382-4f8330f8-ff19-4600-9472-57582e453bba.png)
 
 I have a data science LLC based out of the DC area, with a current clientele focus of NGOs in the religion and public life space. Methodologically, I am a Swiss Army knife. I have either published or done client work using geospatial statistics, network analysis, machine learning, actuarial and demographic methods, qualitative methods such as interviews and content analysis, data visualization, unstructured data retrieval and cleaning, and advanced predictive analytics. 
 
