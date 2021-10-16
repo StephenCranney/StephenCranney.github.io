@@ -2,6 +2,6 @@ I work as a data scientist out of the DC area under the auspices of [Beyond Spre
 
 Additionally, I maintain an active research agenda as a social scientist, specializing in the areas of religion, fertility intentions (why people want the number of children they do), and sexuality, although I have worked with statisticians, demographers, psychologists, business academics, medical researchers, sociologists, evolutionary biologists, political scientists, and criminologists. I am a Non-Resident Fellow at Baylor University's Institute for the Studies of Religion, teach at Bowie State University, and have published over 20 peer-reviewed studies. I have been interviewed about my research by The Guardian, Deseret News, The Atlantic, and Christianity Today. 
 
-I am married with five sons, and I've written some fun listverse articles on the [mathematics of infinity](https://listverse.com/2018/04/26/10-facts-from-the-bizarre-world-of-infinite-math/) and [complex languages](https://listverse.com/2020/11/30/top-10-complex-human-languages-2020/). 
+I am married with six sons, and I've written some fun listverse articles on the [mathematics of infinity](https://listverse.com/2018/04/26/10-facts-from-the-bizarre-world-of-infinite-math/) and [complex languages](https://listverse.com/2020/11/30/top-10-complex-human-languages-2020/). 
 
 
