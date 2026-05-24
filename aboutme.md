@@ -4,7 +4,7 @@ Additionally, I maintain an active research agenda as a social scientist. specia
 
 I have a [forthcoming book](https://global.oup.com/academic/product/trads-9780197843901?cc=us&lang=en&) from Oxford University Press on the Traditional Latin Mass community in the United States. 
 
-I am a Non-Resident Fellow at Baylor University's Institute for the Studies of Religion, teach at Catholic University of America, and have published over 30 peer-reviewed studies. My research has been reported on by The Guardian, The New York Times, NPR, Deseret News, The Wall Street Journal, The Atlantic, and Christianity Today. 
+I am a Non-Resident Fellow at Baylor University's Institute for the Studies of Religion, an occasional data columnist at the Deseret News, I teach at Catholic University of America, and have published over 30 peer-reviewed studies. My research has been reported on by The Guardian, The New York Times, NPR, Deseret News, The Wall Street Journal, The Atlantic, and Christianity Today. 
 
 I am married with nine children, and I've written some fun listverse articles on the [mathematics of infinity](https://listverse.com/2018/04/26/10-facts-from-the-bizarre-world-of-infinite-math/) and [complex languages](https://listverse.com/2020/11/30/top-10-complex-human-languages-2020/). 
 
