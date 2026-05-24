@@ -2,7 +2,7 @@ I work as a data scientist out of the DC area under the auspices of [Beyond Spre
 
 Additionally, I maintain an active research agenda as a social scientist. specializing in the areas of religion, fertility intentions (why people want the number of children they do), and sexuality, although I have worked with statisticians, demographers, psychologists, business academics, medical researchers, sociologists, evolutionary biologists, political scientists, and criminologists. 
 
-I have a [forthcoming book] (https://global.oup.com/academic/product/trads-9780197843901?cc=us&lang=en&) from Oxford University Press on the Traditional Latin Mass community in the United States. 
+I have a [forthcoming book](https://global.oup.com/academic/product/trads-9780197843901?cc=us&lang=en&) from Oxford University Press on the Traditional Latin Mass community in the United States. 
 
 I am a Non-Resident Fellow at Baylor University's Institute for the Studies of Religion, teach at Catholic University of America, and have published over 30 peer-reviewed studies. My research has been reported on by The Guardian, The New York Times, NPR, Deseret News, The Wall Street Journal, The Atlantic, and Christianity Today. 
 
